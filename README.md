@@ -48,33 +48,38 @@ Welcome to EHills, your gateway to a dynamic and engaging multi-client auction e
 3.	Chat Interaction:
 
   •	Engage with other bidders through the chat feature. Ask questions, share insights, or simply enjoy the sense of community during the auction process.
-## Conclusion
-EHills offers an immersive and secure auction experience, combining the thrill of bidding with user-friendly features. Whether you're a seasoned auction participant or a newcomer, EHills is tailored to meet your auction needs.
-References
-1.	Java Socket Programming:
-   
+
+## References
+**Java Socket Programming:
+**
   •	Title: "Java Socket Programming"
-  
   •	Source: GeeksforGeeks - Socket Programming in Java
-3.	Multithreading in Java:
+	Multithreading in Java:
+
   •	Title: "Multithreading in Java"
   •	Source: Java Tutorials - Multithreading
-4.	Observer/Observable Interfaces:
+	Observer/Observable Interfaces:
+
   •	Title: "Observer/Observable in Java"
   •	Source: JournalDev - Observer Design Pattern in Java
-5.	JavaFX GUI:
+JavaFX GUI:
+
   •	Title: "Introduction to JavaFX"
   •	Source: Oracle - JavaFX Documentation
-6.	Serialization in Java:
+Serialization in Java:
+
   •	Title: "Java Object Serialization"
   •	Source: Baeldung - Guide to Java Object Serialization
-7.	Encryption in Java:
+	Encryption in Java:
+
   •	Title: "Java Cryptography Architecture"
   •	Source: Oracle - Java Cryptography Architecture
 8.	Working with JSON in Java:
+
   •	Title: "Working with JSON in Java"
   •	Source: Baeldung - Jackson JSON Tutorial
 9.	Java I/O Streams:
+
   •	Title: "Java I/O Tutorial"
   •	Source: JavaTpoint - Java I/O Tutorial
 
