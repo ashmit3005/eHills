@@ -1,5 +1,8 @@
 # eHills
 eHills Auction System 
+
+![image](https://github.com/user-attachments/assets/c05f3d9a-47af-4e49-a4b8-ce63e7fd6ff9)
+
 ## Introduction
 eHills is a robust application designed to facilitate a complex multi-client auction system, drawing inspiration from platforms like eBay. The system is comprised of a server application and a client application, each incorporating various programming concepts to create a seamless and secure auction experience.
 ## Programming Paradigms
